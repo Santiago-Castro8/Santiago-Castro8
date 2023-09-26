@@ -9,7 +9,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h3 aling="center">CONTACTAME AQUI</h3>
-    <a  href="https://santiagomkastro10@gmail.com" 
+    <a  href="https://santiagomkastro10@gmail.com/" 
   <div align="left">
     <img src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
   </div>
