@@ -1,10 +1,20 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif"width="200" />
-    <h1 align="center">¡Hola! Soy Santiago Castro
-    <h3 align="center">Soy estudiante de primer año de programacion en la Universidad Tecnologica Nacional (UTN) 
+<h1 aling="center"><b>¡Hola! Soy Santiago Castro</b>
 </div>
-<div id="badges" align="center">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    <h3 align="center"color="red">santiagomkastro10@gmail.com
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188CB1&size=25&center=true&vCenter=true&width=600&height=100&lines=Santiago+Castro;Estudiante+de+Programaci%C3%B3n+en+UTN;Programador+en+Desarrollo" alt="Typing SVG" /></a>
 </div>
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<h3 aling="center">CONTACTAME AQUI</h3>
+    <a  href="https://santiagomkastro10@gmail.com" 
+  <div align="left">
+    <img src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+  </div>
+    </a>
+</div>
+<a href="https://discord.com/users/1133553384029429821"> <img src="https://skillicons.dev/icons?i=discord"alt="discord" height="50" width="50"/></a>
+
+Agregar habilidades blandas, lenguajes y metas.
