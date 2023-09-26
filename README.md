@@ -1,13 +1,10 @@
-<div id="header" align="center">
-<h1 aling="center"><b>¡Hola! Soy Santiago Castro</b>
-</div>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188CB1&size=25&center=true&vCenter=true&width=600&height=100&lines=Santiago+Castro;Estudiante+de+Programaci%C3%B3n+en+UTN;Programador+en+Desarrollo" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188CB1&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola!+Soy+Santiago+Castro+👋;Estudiante+de+Programaci%C3%B3n+en+UTN;Programador+en+Desarrollo" alt="Typing SVG" /></a>
 </div>
     
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img height="600" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h3 aling="center">CONTACTAME AQUI🤝</h3>
  <a  href="https://santiagomkastro10@gmail.com/" 
@@ -58,8 +55,16 @@
 
 
 <h3>Habilidades blandas💯​​</h3>
--Agregar habilidades blandas
 
+-Creatividad
+
+-Trabajo en equiipo
+
+-Aprendizaje continuo
+
+-Colaboracion
+
+-Compromiso
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
