@@ -29,8 +29,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<br>
-
 <h3 aling="left"><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture>Lenguajes</h3>
 
   <a href="https://skillicons.dev">
@@ -58,7 +56,6 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-<br>
 
 <h3>Habilidades blandas💯​​</h3>
 -Agregar habilidades blandas
