@@ -68,7 +68,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h3 aling="center">📊 Mi Procesp:</h3>
+<h3 aling="center">📊 Mi Proceso:</h3>
 
 <!-- align center y href no funciona, solucionar luego-->
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Castro8&theme=tokyonight&hide_border=false"> </a>
