@@ -4,7 +4,7 @@
     
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<p><img height="500" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img align="right" height="500" src="https://i.postimg.cc/tJhd5gds/animation-500-kxa883sd.gif"></img>
 
 <h3 aling="left">CONTACTAME AQUI🤝</h3>
  <a  href="https://santiagomkastro10@gmail.com/" 
@@ -68,7 +68,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h3 aling="center">📊 Mi Proceso:</h3>
+<h3 align="center">📊 Mi Proceso:</h3>
 
 <!-- align center y href no funciona, solucionar luego-->
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Castro8&theme=tokyonight&hide_border=false"> </a>
