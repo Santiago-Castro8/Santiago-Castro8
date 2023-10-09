@@ -70,11 +70,12 @@
 
 <h3 align="center">📊 Mi Proceso:</h3>
 
-
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Santiago-Castro8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"></img>
 <br>
+<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Castro8&theme=tokyonight&hide_border=false"></img>
-
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 [![](https://visitcount.itsvg.in/api?id=Santiago-Castro8&icon=0&color=0)](https://visitcount.itsvg.in)
