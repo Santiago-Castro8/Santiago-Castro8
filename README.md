@@ -71,8 +71,9 @@
 <h3 align="center">📊 Mi Proceso:</h3>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Santiago-Castro8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"></img>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Castro8&theme=tokyonight&hide_border=false"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Santiago-Castro8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"></img>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-Castro8&theme=tokyonight&hide_border=false"></img>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
