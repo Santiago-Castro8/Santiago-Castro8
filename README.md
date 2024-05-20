@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="">
+<a href="https://www.linkedin.com/in/santiago-castro-340722302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
